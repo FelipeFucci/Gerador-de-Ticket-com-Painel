@@ -1,4 +1,11 @@
 # Gerador de Ticket com Painel
+
+Sistema que simula um histórico de gerador de tickets para atendimento em hospitais, desenvolvido em C.
+
+## Funcionalidades
+- Gera tickets sequencias automaticamente (começando em 1).
+- Exibe e mantém apenas os 5 últimos tickets gerados em um painel.
+
 ## Estrutura utilizada: Vetor circular de inteiros
   - Inicio: indica qual índice o vetor começa.
 
