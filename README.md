@@ -32,3 +32,8 @@ CAPACIDADE do vetor tickets sem afetar o restante do código.
 permitir mudanças de formatos no futuro. Caso a nova formatação ultrapasse o
 TAMANHO_BUFFER, é necessário apenas aumentar o seu valor e alterar o sprintf da
 função formataTicket.
+    
+  ## Como executar
+    ```bash
+    gcc Gerador-de-Ticket-com-Painel.c -o Gerador-de-Ticket-com-Painel
+    ./Gerador-de-Ticket-com-Painel
