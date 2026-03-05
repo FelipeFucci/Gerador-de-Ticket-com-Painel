@@ -1,4 +1,4 @@
-# Gerador de Ticket com-Painel
+# Gerador de Ticket com Painel
 ## Estrutura utilizada: Vetor circular de inteiros
   - Inicio: indica qual índice o vetor começa.
 
