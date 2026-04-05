@@ -126,7 +126,7 @@ int main() {
     switch (opcao) {
 
     case 1:
-      gerarTicket(&historico, valorTicket);
+      adicionarTicket(&historico, valorTicket);
       printf("Ticket gerado!\n\n");
       valorTicket++;
       break;
