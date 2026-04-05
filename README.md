@@ -31,7 +31,7 @@ funcaoFormatacao para chamar a função de formatação escolhida, armazena o ti
 formatado no vetor temporário auxFormatacao, imprime o resultado e o ciclo
 continua.
 
-  - main: inicialização do histórico, loop do painel e chamada de gerarTicket na
+  - main: inicialização do histórico, loop do painel e chamada de adicionarTicket na
     escolha 1 e chamada de mostrarHistorico na escolha 2.
 
 **Observação 1:** o vetor char temporário auxFormatacao foi utilizado para armazenar
