@@ -60,7 +60,7 @@ void inicializaHistorico(HistoricoTickets *historico) {
   historico->tamanho = 0;
 }
 
-void gerarTicket(HistoricoTickets *historico, int novoTicket) {
+void adicionarTicket(HistoricoTickets *historico, int novoTicket) {
   historico->tickets[historico->fim] = novoTicket;
   historico->fim = (historico->fim + 1) % CAPACIDADE;
 
