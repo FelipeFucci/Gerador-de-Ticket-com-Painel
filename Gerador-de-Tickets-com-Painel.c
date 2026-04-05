@@ -10,7 +10,7 @@ Organização do código e separação de responsabilidades:
 
   - inicializaHistorico: inicializa a estrutura do vetor circular.
 
-  - gerarTicket: gera um ticket, armazena ele no vetor circular e gerencia a
+  - adicionarTicket: recebe o valor do ticket, armazena ele no vetor circular e gerencia a
     circularidade.
 
   - formataTicketFormato1 e formataTicketFormato2: formatam o ticket no padrão
